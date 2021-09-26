@@ -47,8 +47,8 @@ a simple calendar application that allows a user to save events for each hour of
 
 ## Screen Shots of my running application
 
-![](assets/images/Screen Shot 1)
-![](assets/images/Screen Shot 2)
+![](assets/images/Screen Shot 1.png)
+![](assets/images/Screen Shot 2.png)
 
 ## Contributor:
 
