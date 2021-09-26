@@ -4,6 +4,8 @@
 
 # URL :https://github.com/mambu1998/Benji-Challenge-5
 
+# Live Link URL : https://mambu1998.github.io/Benji-Challenge-5/
+
 ## Description
 
 a simple calendar application that allows a user to save events for each hour of the day. It runs in the browser and feature dynamically updated HTML and CSS powered by jQuery.
@@ -45,8 +47,8 @@ a simple calendar application that allows a user to save events for each hour of
 
 ## Screen Shots of my running application
 
-![alt screen shot 1](assets/images/Screen Shot 1)
-![alt screen shot 2](assets/images/Screen Shot 2)
+![](assets/images/Screen Shot 1)
+![](assets/images/Screen Shot 2)
 
 ## Contributor:
 
