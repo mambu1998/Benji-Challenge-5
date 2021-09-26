@@ -43,6 +43,11 @@ a simple calendar application that allows a user to save events for each hour of
 
 ![](assets/images/05-third-party-apis-homework-demo.gif)
 
+## Screen Shots of my running application
+
+![alt screen shot 1](assets/images/Screen Shot 1)
+![alt screen shot 2](assets/images/Screen Shot 2)
+
 ## Contributor:
 
 Benji Francis ©2021 All Rights Reserved.
